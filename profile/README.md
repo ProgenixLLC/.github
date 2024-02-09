@@ -1,4 +1,4 @@
-![Progenix Software Banner]("")
+![banner-grd-blugr](https://github.com/ProgenixLLC/.github/assets/120041083/fd24d372-6af2-4f47-bcee-3b6daa12a990)
 <div align="center">
 <h2> Hi There, Welcome to the Progenix Software Github profile!</h2>
 <a href="https://www.linkedin.com/company/progenixsoftware" target="_blank">
