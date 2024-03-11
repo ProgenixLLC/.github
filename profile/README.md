@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/ProgenixLLC/.github/assets/120041083/fd24d372-6af2-4f47-bcee-3b6daa12a990" alt="Progenix Software Banner" />
+<img src="https://github.com/ProgenixLLC/.github/assets/120041083/1e74107a-3e96-43aa-8939-acc3137b22c9" alt="Progenix Software" />
 <h2> Hi There, Welcome to the Progenix Software Github profile!</h2>
 <a href="https://www.linkedin.com/company/progenixsoftware" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
